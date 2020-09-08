@@ -20,7 +20,7 @@ namespace Xplane_app //organied data, like areas codes
 
 		static void Main(string[] args)//each program has an enternce and only one main enternce
 		{
-			//changes to show
+			//second change
 			byte[] data = Encoding.ASCII.GetBytes("C" + "M" + "N" + "D" + "\0");//bacially saying take hello world and converted it to ones and zeros
 			string cmndPath = "sim/engines/throttle_up";
 			byte[] cmndData = Encoding.ASCII.GetBytes(cmndPath + "\0");
