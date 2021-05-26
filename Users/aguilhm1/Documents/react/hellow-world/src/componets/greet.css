@@ -1,0 +1,16 @@
+.greetingone{
+    background-color:#92bdd3;
+    padding: 20px;
+    height: 100px;
+    color:black;
+}
+
+#hey{
+    background-color: whitesmoke;
+    margin: 20px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 200px;
+}
